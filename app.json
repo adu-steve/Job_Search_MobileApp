@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Job_Search_MobileApp",
+    "slug": "Job_Search_MobileApp"
+  }
+}
